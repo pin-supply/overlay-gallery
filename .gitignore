@@ -1,0 +1,9 @@
+# Önce her şeyi yoksay
+*.jpg
+*.png
+*.gif
+*.svg
+*.webp
+*.ico
+*.xml
+*.json
